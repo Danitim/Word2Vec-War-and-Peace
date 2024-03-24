@@ -1,0 +1,5 @@
+.git
+.ipynb_checkpoints
+pics/
+udpipe_syntagrus.model
+model/*
